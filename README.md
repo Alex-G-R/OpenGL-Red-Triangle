@@ -7,7 +7,7 @@ Ready for compining, if you want to quick here is the code to put in .vscode/tas
 		{
 			"type": "cppbuild",
 			"label": "C/C++: g++.exe build active file",
-			"command": "\"C:/Users/alexg/Desktop/GCC/winlibs-x86_64-mcf-seh-gcc-13.2.0-llvm-16.0.6-mingw-w64ucrt-11.0.1-r2/mingw64/bin/g++.exe\"",
+			"command": "\"C:/path/to/copmiler\"",
 			"args": [
 				"-g",
 				"-std=c++17",
@@ -29,7 +29,7 @@ Ready for compining, if you want to quick here is the code to put in .vscode/tas
 				"kind": "build",
 				"isDefault": true
 			},
-			"detail": "compiler: C:/Users/alexg/Desktop/GCC/winlibs-x86_64-mcf-seh-gcc-13.2.0-llvm-16.0.6-mingw-w64ucrt-11.0.1-r2/mingw64/bin/g++.exe"
+			"detail": "compiler: C:/path/to/copmiler"
 		}
 	]
 }
